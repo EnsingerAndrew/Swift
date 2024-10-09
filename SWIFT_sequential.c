@@ -1,6 +1,5 @@
 #include <stdio.h>     //  fopen(), fclose()
 #include <stdlib.h>    // mlloc(), free()
-#include <pthread.h>
 #include <sys/types.h> // int32_t, u_int32_t
 #include <sys/time.h>  // gettimeofday()
 #include <unistd.h>
